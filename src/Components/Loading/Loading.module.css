@@ -1,0 +1,19 @@
+.popup {
+    background-color: #ffffffa2;
+    backdrop-filter: blur(2px);
+    /* margin-left: 265px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+}
+
+.popup h5{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+}
